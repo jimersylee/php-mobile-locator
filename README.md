@@ -9,7 +9,7 @@ A mobile number lookup library based on Chinese carrier rules. Identifies carrie
 
 > Current data entries: 481,615
 
-**This project has been parsed by Zread. If you need a quick overview of the project, you can click on the number of views to view it：[Understand this project](https://zread.ai/zxc7563598/php-mobile-locator)**
+**This project has been parsed by Zread. If you need a quick overview of the project, you can click here to view it：[Understand this project](https://zread.ai/zxc7563598/php-mobile-locator)**
 
 ---
 

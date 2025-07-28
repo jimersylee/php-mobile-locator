@@ -9,7 +9,7 @@
 
 > 目前收录数据量：481,615
 
-**本项目已经经由 Zread 解析完成，如果需要快速了解项目，可以点击次数进行查看：[了解本项目](https://zread.ai/zxc7563598/php-mobile-locator)**
+**本项目已经经由 Zread 解析完成，如果需要快速了解项目，可以点击此处进行查看：[了解本项目](https://zread.ai/zxc7563598/php-mobile-locator)**
 
 ---
 
