@@ -9,6 +9,8 @@ A mobile number lookup library based on Chinese carrier rules. Identifies carrie
 
 > Current data entries: 481,615
 
+**This project has been parsed by Zread. If you need a quick overview of the project, you can click on the number of views to view it：[Understand this project](https://zread.ai/zxc7563598/php-mobile-locator)**
+
 ---
 
 This is a mobile number attribution dataset I compiled myself. It allows you to look up the location and carrier information of Chinese mobile numbers based on segment rules. Just like my other data repositories, this one is regularly updated.
