@@ -17,7 +17,7 @@ This is a mobile number attribution dataset I compiled myself. It allows you to 
 
 In short, it consolidates all those scattered and complicated segment details into a single, easy-to-use JSON file—making lookups fast and straightforward.
 
-If you don’t want to deploy anything and just want to use it directly, you can 👉 [click here to use it](https://tools.hejunjie.life/#/external/mobile-locator).
+If you don’t want to deploy anything and just want to use it directly, you can 👉 [click here to use it](https://hejunjie.life/composer/mobile-locator).
 
 Bulk lookup is supported.
 

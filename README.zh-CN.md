@@ -17,7 +17,7 @@
 
 简单来说，就是把那些繁琐的号段归属信息整合到一个 JSON 文件里，让你能方便地查询和使用。
 
-如果你不想要部署，只是想要进行使用，可以 👉 [点击此处进行使用](https://tools.hejunjie.life/#/external/mobile-locator)
+如果你不想要部署，只是想要进行使用，可以 👉 [点击此处进行使用](https://hejunjie.life/composer/mobile-locator)
 
 支持批量查询
 
