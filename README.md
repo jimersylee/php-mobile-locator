@@ -7,7 +7,7 @@
 
 A mobile number lookup library based on Chinese carrier rules. Identifies carriers and regions, suitable for registration checks, user profiling, and data archiving.
 
-> Current data entries: 481,615
+> Current data entries: 483,709
 
 **This project has been parsed by Zread. If you need a quick overview of the project, you can click here to view it：[Understand this project](https://zread.ai/zxc7563598/php-mobile-locator)**
 
@@ -31,7 +31,7 @@ composer require hejunjie/mobile-locator
 
 ## Included Data Files
 
-`data.json`：All data, with a total of **481,615** number segments.
+`data.json`：All data, with a total of **483,709** number segments.
 
 You can directly import the JSON file for processing. The structure is clear, so you can use it right away.
 
